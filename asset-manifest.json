@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Food4U/static/css/main.a915a7d1.css",
-    "main.js": "/Food4U/static/js/main.8379d81d.js",
-    "index.html": "/Food4U/index.html",
-    "main.a915a7d1.css.map": "/Food4U/static/css/main.a915a7d1.css.map",
-    "main.8379d81d.js.map": "/Food4U/static/js/main.8379d81d.js.map"
+    "main.css": "/static/css/main.a915a7d1.css",
+    "main.js": "/static/js/main.8379d81d.js",
+    "index.html": "/index.html",
+    "main.a915a7d1.css.map": "/static/css/main.a915a7d1.css.map",
+    "main.8379d81d.js.map": "/static/js/main.8379d81d.js.map"
   },
   "entrypoints": [
     "static/css/main.a915a7d1.css",
